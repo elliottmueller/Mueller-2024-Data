@@ -1,1 +1,2 @@
 # Mueller-2024-Data
+This dataset includes Orbitrap raw data that has been transformed into .isox files using the ThermoFisher software IsoX. These files represent dual inlet measurements on a HF QExactive ESI-Orbitrap mass spectrometer from January 2023. To process the files, the open source IsoXL files can be used with the Dual Inlet processing method. Each file represents a dual inlet measurement including 7 total blocks (4 standard blocks and 3 sample blocks).
